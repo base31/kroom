@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kurento-room.iml" filepath="$PROJECT_DIR$/kurento-room.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-demo/kurento-room-demo.iml" filepath="$PROJECT_DIR$/kurento-room-demo/kurento-room-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-sdk/kurento-room-sdk.iml" filepath="$PROJECT_DIR$/kurento-room-sdk/kurento-room-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-server/kurento-room-server.iml" filepath="$PROJECT_DIR$/kurento-room-server/kurento-room-server.iml" />
+    </modules>
+  </component>
+</project>

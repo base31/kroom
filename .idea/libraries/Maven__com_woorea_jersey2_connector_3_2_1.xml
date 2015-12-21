@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.woorea:jersey2-connector:3.2.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/woorea/jersey2-connector/3.2.1/jersey2-connector-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/woorea/jersey2-connector/3.2.1/jersey2-connector-3.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/woorea/jersey2-connector/3.2.1/jersey2-connector-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
